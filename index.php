@@ -17,9 +17,9 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	
 
-  <!--[if lt IE 9]>
+    <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-  <![endif]-->
+    <![endif]-->
 </head>
 
 <body>
@@ -32,7 +32,7 @@
 		<a href="#Lutte contre le terrorisme" class="menu-link">Lutte contre le terrorisme</a>
 	</header>
 	<div id="content"></div>
-
+pouet
     <!-- <script src="https://www.googleapis.com/customsearch/v1?key=AIzaSyAZUmS0rkkWttzfKO6Ynwr5vxzKNx_uLsE&cx=008506937237879921688:pmy70kjvvye&q=Blanchiment&callback=initBasicPage">
     </script> -->
 </body>
