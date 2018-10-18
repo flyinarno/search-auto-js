@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900);
+
+$background-color: #DDD;
+$text-color: #CCC;
+
+body {
+  font-family: Roboto,Arial,sans-serif;
+  color: $text-color;
+  background-color: $background-color;
+
+}
+div{
+  &#content{
+    position: relative;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+a{
+  padding: 5px;
+  &.active{
+    text-decoration: none;
+  }
+}
+
